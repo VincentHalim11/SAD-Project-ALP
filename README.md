@@ -14,6 +14,7 @@ Aplikasi desktop sales dan inventory management yang dikembangkan dengan C# dan 
 - WindowsForm
 
 **Notes**
+
 Database untuk saat ini sudah tidak aktif karena server database yang digunakan adalah server dosen mata kuliah SAD
 
 **Screenshot**
