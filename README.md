@@ -1,7 +1,7 @@
 # SAD Project - ELLENA HANDMADE
 Aplikasi desktop sales dan inventory management yang dikembangkan dengan C# dan MYSQL untuk menangani data produk, transaksi dan informasi user
 
-#Fitur
+* Fitur
 - User Login Authentication
 - Product Management (CRUD)
 - Transaction Management
