@@ -1,4 +1,4 @@
-<img width="374" height="395" alt="image" src="https://github.com/user-attachments/assets/65210004-8455-442f-b50c-ef2b05ec2fe9" /># SAD Project - ELLENA HANDMADE
+# SAD Project - ELLENA HANDMADE
 Aplikasi desktop sales dan inventory management yang dikembangkan dengan C# dan MYSQL untuk menangani data produk, transaksi dan informasi user
 
 **Fitur**
